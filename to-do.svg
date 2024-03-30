@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="54.137mm" height="33.269mm" version="1.1" viewBox="0 0 54.137 33.269" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient6" x1="71.422" x2="79.647" y1="77.271" y2="77.271" gradientTransform="translate(-1.2147 14.142)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#169f9d" stop-opacity=".047445" offset="0"/>
+   <stop stop-color="#161939" stop-opacity=".81569" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient14" x1="51.666" x2="71.754" y1="91.587" y2="91.587" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#717475" stop-opacity=".69161" offset="0"/>
+   <stop stop-color="#5d8283" stop-opacity=".56387" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient16" cx="95" cy="91.573" r="5.0351" gradientTransform="matrix(1 0 0 3.1527 0 -197.13)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#287365" stop-opacity=".64599" offset="0"/>
+   <stop stop-color="#313c4c" stop-opacity=".32117" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(-44.872 -75.899)">
+  <g transform="translate(-1.0265 .20034)" fill-opacity=".14263" stroke="#000">
+   <path d="m81.354 76.295 0.04858 8.2181a3.7664 6.9008 0 0 1 3.8065 6.75 3.7664 6.9008 0 0 1-3.6442 7.0476l-0.12144-6.8973 0.25476 15.111a7.8948 15.119 0 0 0 7.6383-15.441 7.8948 15.119 0 0 0-7.9825-14.789zm0.0894 15.118-0.04082-6.9004a3.7664 6.9008 0 0 0-0.0015 0z" fill="#2f6478" fill-opacity=".4359" stroke-width="1.174" style="paint-order:stroke fill markers"/>
+   <path d="m74.351 76.31a3.5954 15.103 0 0 0-3.6261 14.887 3.5954 15.103 0 0 0 3.5238 15.316l0.08165 3e-3a3.5954 15.103 0 0 0 3.5853-15.059 3.5954 15.103 0 0 0 0-0.02119 1.8244 5.9821 0 0 1-1.8195 5.9593l-0.04134-1e-3a1.8244 5.9821 0 0 1-1.788-6.0663 1.8244 5.9821 0 0 1 1.8402-5.8968 1.8244 5.9821 0 0 1 1.8071 5.7464 3.5954 15.103 0 0 0-3.5631-14.867z" fill="url(#linearGradient6)" fill-opacity=".84455" stroke-width="1.0344" style="paint-order:stroke fill markers"/>
+   <g>
+    <rect x="78.846" y="76.081" width="2.7977" height="30.694" fill="#fdfdfd" fill-opacity=".99038" stroke-width=".73327" style="paint-order:stroke fill markers"/>
+    <path d="m95.041 76.01a4.7331 15.568 0 0 0-4.7734 15.345 4.7331 15.568 0 0 0 4.6385 15.787l0.10749 3e-3a4.7331 15.568 0 0 0 4.7196-15.523 4.7331 15.568 0 0 0-4.6922-15.612zm2.0267 10.387a1.9596 5.481 0 0 1 1.943 5.4968 1.9596 5.481 0 0 1-1.9544 5.4648l-0.04444-1e-3a1.9596 5.481 0 0 1-1.9203-5.5578 1.9596 5.481 0 0 1 1.9761-5.4028z" fill="url(#radialGradient16)" fill-opacity=".14263" stroke-width=".60405" style="paint-order:stroke fill markers"/>
+    <path d="m51.931 76.587v3.3142h9.5578l-4.3651 26.685h2.8864l4.3655-26.685h7.1142v-3.3142z" fill="url(#linearGradient14)" fill-opacity=".53205" stroke-width=".52878" style="paint-order:stroke fill markers"/>
+   </g>
+  </g>
+ </g>
+</svg>

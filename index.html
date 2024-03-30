@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo app</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.7.2/font/bootstrap-icons.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="video-background">
+      <video autoplay muted loop playsinline>
+        <source src="White Background - 92723.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+
+    <main>
+      <header>
+        <img src="to-do.svg" alt="Todo img" />
+      </header>
+
+      <div class="qoutes">
+        <h1>
+          <p>Vick qoutes</p>
+          <i class="fa-solid fa-arrows-rotate" id="refresh"></i>
+        </h1>
+        <div>
+          <i class="fa-solid fa-quote-left"></i
+          ><span class="qoute-text" id="qoute"
+            >To create app no hard, na you want make your app work </span
+          ><i class="fa-solid fa-quote-right"></i>
+        </div>
+      </div>
+
+      <form>
+        <input
+          type="text"
+          name="task"
+          id="task"
+          placeholder="Enter your task"
+        />
+        <button type="submit" id="add" onclick="addTask()">
+          <i class="fa-solid fa-plus"></i>
+        </button>
+      </form>
+      <div class="to-do">
+        <h2>To-Do List <i class="bi bi-journal-check"></i></h2>
+
+        <ul id="taskList">
+          <li></li>
+         
+        </ul>
+      </div>
+    </main>
+  </body>
+</html>
