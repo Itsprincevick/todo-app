@@ -134,25 +134,26 @@ button {
   padding: 1rem;
   position: relative;
   background-color: #24415b;
-  color: aliceblue;
+  color: rgba(240, 248, 255, 0.4);
   border-radius: 1rem;
 }
 .to-do h2 {
   position: absolute;
-  left: 5px;
-  top: 2px;
+  left: 0.95rem;
+  top: 0.8rem;
 }
 
 ul {
   list-style: url(pin-fill.svg);
   padding: 0;
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
+  margin-left: 1rem;
   list-style-position: inside;
 }
-
-ul li {
-  align-items: center;
-  margin-top: 1.5em;
+li {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  color: rgba(240, 248, 255, 0.79);
 }
 
 @media screen and (max-width: 768px) {
@@ -176,9 +177,8 @@ ul li {
     padding: 0.5rem;
     font-size: 0.85em;
   }
-  .to-do li {
-    font-size: 1.5em;
-  }
+ 
+  
   .fa-arrows-rotate {
     font-size: 1em;
   }
