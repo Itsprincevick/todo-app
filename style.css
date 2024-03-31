@@ -63,7 +63,6 @@ header {
 
 .qoutes {
   grid-area: qoute;
-  display: grid;
   color: #24415b;
   font-size: 2rem;
   text-align: center;
@@ -140,7 +139,7 @@ button {
 .to-do h2 {
   position: absolute;
   left: 5px;
-  top: 2px
+  top: 2px;
 }
 
 ul {
@@ -154,8 +153,6 @@ ul li {
   align-items: center;
   margin-top: 1.5em;
 }
-
-
 
 @media screen and (max-width: 768px) {
   .qoutes {
@@ -180,5 +177,8 @@ ul li {
   }
   .to-do li {
     font-size: 1.5em;
+  }
+  .fa-arrows-rotate {
+    font-size: 1em;
   }
 }
