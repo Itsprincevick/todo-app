@@ -144,7 +144,7 @@ button {
 }
 
 ul {
-  list-style: url(pin-fill.svg);
+  list-style: url("pin-fill.svg");
   padding: 0;
   margin-top: 2.5rem;
   margin-left: 1rem;
@@ -177,7 +177,12 @@ li {
     padding: 0.5rem;
     font-size: 0.85em;
   }
- 
+  .to-do h2 {
+    font-size: 1em;
+  }
+  li {
+    font-size: 1em;
+  }
   
   .fa-arrows-rotate {
     font-size: 1em;
